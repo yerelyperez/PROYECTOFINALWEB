@@ -1,0 +1,6 @@
+Codigo utilizado en post con postman:
+
+{
+    "body": "New Scream 2",
+    "userHandle": "new"
+}
